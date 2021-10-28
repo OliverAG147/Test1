@@ -1,2 +1,8 @@
 Hola!
 soy Oliver, hola
+ Zmadel: fdssf
+[19:58] Zmadel: which ufw
+[20:00] Zmadel: ufw allow 22
+[20:04] Zmadel: ufw enable
+[20:05] Zmadel: ufw status verbose
+[20:07] Zmadel: ufw
